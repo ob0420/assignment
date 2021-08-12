@@ -1,0 +1,21 @@
+{
+  "name": "hello-cli", 
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ogulgerek",
+  "license": "ISC",
+  "bin": {
+    "tran": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.6",
+    "yargs": "^17.1.0"
+  }
+}
