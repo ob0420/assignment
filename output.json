@@ -1,0 +1,8 @@
+MongoDB shell version v5.0.2
+connecting to: mongodb://127.0.0.1:27017/Items?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("28d39933-7f08-477b-81b9-0aae093ddb26") }
+MongoDB server version: 5.0.2
+uncaught exception: ReferenceError: require is not defined :
+@bin\barcode_amount.js:1:7
+failed to load: bin\barcode_amount.js
+exiting with code -3
